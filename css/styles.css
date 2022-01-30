@@ -1,0 +1,27 @@
+.title {
+    font-size: 50px;
+    background-color: lightblue;
+    color: black;
+}
+
+.recipe {
+    font-family: Georgia, 'Times New Roman', sans-serif;
+}
+
+.recipe.title {
+    font-size: 48px;
+    background-color: plum;
+    color: black;
+}
+
+.recipe.description,
+.recipe.ingredients,
+.recipe.steps {
+    font-size: 36px;
+    text-align: center;
+}
+
+p,
+.recipe li {
+    font-size: 24px;
+}
